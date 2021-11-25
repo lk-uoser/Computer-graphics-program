@@ -5,6 +5,6 @@ Computer graphics assignment 1
 ***
 DDA算法流程图  
 ![DDA算法流程](https://github.com/lk-uoser/Computer-graphics-program/blob/main/image/DDA.png "DDA")  
-Bresenham算法流程图
+Bresenham算法流程图  
 ![Bresenham算法流程](https://github.com/lk-uoser/Computer-graphics-program/blob/main/image/B.png "Bresenham")  
 ***
